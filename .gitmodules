@@ -4,3 +4,6 @@
 [submodule "JW"]
 	path = everytime_clone_flutter
 	url = https://github.com/BaconTomatoDeluxe/everytime_clone_flutter.git
+[submodule "MJ"]
+	path = flutter_evertime_clonecoding
+	url = https://github.com/MyoungJinKim/flutter_evertime_clonecoding.git
